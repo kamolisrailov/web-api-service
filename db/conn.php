@@ -3,7 +3,7 @@ class DB
 {
         protected $servername = "localhost";
         protected $username = "root";
-        protected $password = "findit11";
+        protected $password = "";
         protected $dbname = "webservice";
         public $conn;
         public function __construct()
